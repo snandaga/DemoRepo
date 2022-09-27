@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2580" started-at="2022-09-10T12:48:07Z" finished-at="2022-09-10T12:48:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2580" started-at="2022-09-10T12:48:07Z" finished-at="2022-09-10T12:48:10Z">
+      <class name="Com.JBK.MavenTest_First.M_LoginTest">
+        <test-method status="PASS" signature="loginTestusingMaven()[pri:0, instance:Com.JBK.MavenTest_First.M_LoginTest@61832929]" name="loginTestusingMaven" is-config="true" duration-ms="16511" started-at="2022-09-10T18:17:51Z" finished-at="2022-09-10T18:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestusingMaven -->
+        <test-method status="PASS" signature="loginTestTitle()[pri:1, instance:Com.JBK.MavenTest_First.M_LoginTest@61832929]" name="loginTestTitle" duration-ms="364" started-at="2022-09-10T18:18:08Z" finished-at="2022-09-10T18:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestTitle -->
+        <test-method status="PASS" signature="loginPageSucess()[pri:2, instance:Com.JBK.MavenTest_First.M_LoginTest@61832929]" name="loginPageSucess" duration-ms="1734" started-at="2022-09-10T18:18:08Z" finished-at="2022-09-10T18:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageSucess -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Com.JBK.MavenTest_First.M_LoginTest@61832929]" name="close" is-config="true" duration-ms="245" started-at="2022-09-10T18:18:10Z" finished-at="2022-09-10T18:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Com.JBK.MavenTest_First.M_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
